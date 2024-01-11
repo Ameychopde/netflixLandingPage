@@ -9,4 +9,4 @@ Key Features:
 🎬 Dynamic content carousel
 💡 Responsive layout
 
-Explore the code and the live project at  Learn, collaborate, and let's discuss the art of creating captivating web experiences! 🌟 #WebDevelopment #HTML #CSS #JavaScript #GitHubProject"
+Explore the code. Learn, collaborate, and let's discuss the art of creating captivating web experiences! 🌟 #WebDevelopment #HTML #CSS #JavaScript #GitHubProject"
